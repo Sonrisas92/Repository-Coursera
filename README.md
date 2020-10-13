@@ -1,1 +1,2 @@
-# Repository-Coursera
+# Repository-Coursera 
+# ich lerne GitHub kennen.
